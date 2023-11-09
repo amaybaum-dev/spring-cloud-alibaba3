@@ -4,8 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableReachability": true,
-    "javaVersion": 17
+    "enableReachability": true
   },
   "scanSettingsSAST": {
     "enableScan": false,
